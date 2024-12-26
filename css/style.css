@@ -521,7 +521,7 @@ a:focus {
 }
 
 .about .skill-name p:last-child {
-    float: right;
+    float: left;
 }
 
 .about .progress {
