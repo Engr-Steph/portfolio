@@ -35,7 +35,7 @@ a:focus {
 }
 
 .container-fluid {
-    max-width: 1366px;
+    max-width: 100%;
 }
 
 .btn {
@@ -563,7 +563,7 @@ a:focus {
 
 .experience .timeline::after {
     content: '';
-    position: absolute;
+    position: relative;
     width: 2px;
     background: #EF233C;
     top: 0;
